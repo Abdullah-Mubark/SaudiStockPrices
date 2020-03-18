@@ -1,0 +1,21 @@
+{
+  "name": "stockprices",
+  "version": "1.0.1",
+  "description": "This Project Created By Abdullah Almubark, it provides an immediate response on the latest stock prices for the list of stocks specified in the config file (config/stocks.json).",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "excel4node": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+	"start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "STOCKS",
+    "TASI"
+  ],
+  "author": "Abdullah Almubark",
+  "license": "MIT"
+}
