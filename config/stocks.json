@@ -16,6 +16,14 @@
 		"isActive": true
 	},
 	{
+		"name": "الراجحي",
+		"code": 1120,
+		"market": "البنوك",
+		"dividendAverage": 3.75,
+		"averageCost": null,
+		"isActive": true
+	},
+	{
 		"name": "المتقدمة",
 		"code": 2330,
 		"market": "المواد الأساسية",
@@ -45,6 +53,14 @@
 		"market": "الطاقة",
 		"dividendAverage": 1.4,
 		"averageCost": 33.35,
+		"isActive": true
+	},
+	{
+		"name": "جرير",
+		"code": 4190,
+		"market": "تجزئة السلع الكمالية",
+		"dividendAverage": 8.52,
+		"averageCost": null,
 		"isActive": true
 	},
 	{
@@ -85,22 +101,6 @@
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.65,
 		"averageCost": 9.83,
-		"isActive": true
-	},
-	{
-		"name": "الراجحي",
-		"code": 1120,
-		"market": "البنوك",
-		"dividendAverage": 3.75,
-		"averageCost": null,
-		"isActive": true
-	},
-	{
-		"name": "جرير",
-		"code": 4190,
-		"market": "تجزئة السلع الكمالية",
-		"dividendAverage": 8.52,
-		"averageCost": null,
 		"isActive": true
 	}
 ]
