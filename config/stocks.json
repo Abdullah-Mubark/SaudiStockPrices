@@ -1,106 +1,106 @@
 [
-    {
-        "name": "اس تي سي",
-        "code": 7010,
-        "market": "الإتصالات",
-        "dividendAverage": 4.67,
-        "averageCost": 85.57,
-        "isActive": true
-    },
-    {
-        "name": "التعمير",
-        "code": 4150,
-        "market": "إدارة وتطوير العقارات",
-        "dividendAverage": 1.27,
-        "averageCost": 14.82,
-        "isActive": true
-    },
-    {
-        "name": "الراجحي",
-        "code": 1120,
-        "market": "البنوك",
-        "dividendAverage": 3.75,
-        "averageCost": 54.89,
-        "isActive": true
-    },
-    {
-        "name": "المتقدمة",
-        "code": 2330,
-        "market": "المواد الأساسية",
-        "dividendAverage": 2.77,
-        "averageCost": 45.18,
-        "isActive": true
-    },
-    {
-        "name": "المشاعر ريت",
-        "code": 4337,
-        "market": "الصناديق العقارية المتداولة",
-        "dividendAverage": 0.52,
-        "averageCost": 7.74,
-        "isActive": true
-    },
-    {
-        "name": "المواساة",
-        "code": 4002,
-        "market": "الرعاية الصحية",
-        "dividendAverage": 2.42,
-        "averageCost": null,
-        "isActive": true
-    },
-    {
-        "name": "أرامكو السعودية",
-        "code": 2222,
-        "market": "الطاقة",
-        "dividendAverage": 1.4,
-        "averageCost": 32.93,
-        "isActive": true
-    },
-    {
-        "name": "جرير",
-        "code": 4190,
-        "market": "تجزئة السلع الكمالية",
-        "dividendAverage": 8.52,
-        "averageCost": 130.68,
-        "isActive": true
-    },
-    {
-        "name": "سابك",
-        "code": 2010,
-        "market": "المواد الأساسية",
-        "dividendAverage": 4.33,
-        "averageCost": 75.02,
-        "isActive": true
-    },
-    {
-        "name": "سافكو",
-        "code": 2020,
-        "market": "المواد الأساسية",
-        "dividendAverage": 2.75,
-        "averageCost": 67.68,
-        "isActive": true
-    },
-    {
-        "name": "كهرباء السعودية",
-        "code": 5110,
-        "market": "المرافق العامة",
-        "dividendAverage": 0.7,
-        "averageCost": 16.38,
-        "isActive": true
-    },
-    {
-        "name": "مشاركة ريت",
-        "code": 4335,
-        "market": "الصناديق العقارية المتداولة",
-        "dividendAverage": 0.67,
-        "averageCost": 8.85,
-        "isActive": true
-    },
-    {
-        "name": "ملكية عقارات الخليج ريت",
-        "code": 4336,
-        "market": "الصناديق العقارية المتداولة",
-        "dividendAverage": 0.65,
-        "averageCost": 9.56,
-        "isActive": true
-    }
+	{
+		"name": "اس تي سي",
+		"code": 7010,
+		"market": "الإتصالات",
+		"dividendAverage": 4.67,
+		"averageCost": 85.9,
+		"isActive": true
+	},
+	{
+		"name": "التعمير",
+		"code": 4150,
+		"market": "إدارة وتطوير العقارات",
+		"dividendAverage": 1.27,
+		"averageCost": 14.48,
+		"isActive": true
+	},
+	{
+		"name": "الراجحي",
+		"code": 1120,
+		"market": "البنوك",
+		"dividendAverage": 3.75,
+		"averageCost": 53.94,
+		"isActive": true
+	},
+	{
+		"name": "المتقدمة",
+		"code": 2330,
+		"market": "المواد الأساسية",
+		"dividendAverage": 2.77,
+		"averageCost": 45.0,
+		"isActive": true
+	},
+	{
+		"name": "المشاعر ريت",
+		"code": 4337,
+		"market": "الصناديق العقارية المتداولة",
+		"dividendAverage": 0.52,
+		"averageCost": 7.74,
+		"isActive": true
+	},
+	{
+		"name": "المواساة",
+		"code": 4002,
+		"market": "الرعاية الصحية",
+		"dividendAverage": 2.42,
+		"averageCost": null,
+		"isActive": true
+	},
+	{
+		"name": "أرامكو السعودية",
+		"code": 2222,
+		"market": "الطاقة",
+		"dividendAverage": 1.4,
+		"averageCost": 32.67,
+		"isActive": true
+	},
+	{
+		"name": "جرير",
+		"code": 4190,
+		"market": "تجزئة السلع الكمالية",
+		"dividendAverage": 8.52,
+		"averageCost": 130.68,
+		"isActive": true
+	},
+	{
+		"name": "سابك",
+		"code": 2010,
+		"market": "المواد الأساسية",
+		"dividendAverage": 4.33,
+		"averageCost": 74.45,
+		"isActive": true
+	},
+	{
+		"name": "سافكو",
+		"code": 2020,
+		"market": "المواد الأساسية",
+		"dividendAverage": 2.75,
+		"averageCost": 67.65,
+		"isActive": true
+	},
+	{
+		"name": "كهرباء السعودية",
+		"code": 5110,
+		"market": "المرافق العامة",
+		"dividendAverage": 0.7,
+		"averageCost": 16.27,
+		"isActive": true
+	},
+	{
+		"name": "مشاركة ريت",
+		"code": 4335,
+		"market": "الصناديق العقارية المتداولة",
+		"dividendAverage": 0.67,
+		"averageCost": 8.85,
+		"isActive": true
+	},
+	{
+		"name": "ملكية عقارات الخليج ريت",
+		"code": 4336,
+		"market": "الصناديق العقارية المتداولة",
+		"dividendAverage": 0.65,
+		"averageCost": 9.56,
+		"isActive": true
+	}
 ]
