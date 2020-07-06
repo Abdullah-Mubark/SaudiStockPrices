@@ -4,7 +4,7 @@
 		"code": 7010,
 		"market": "الإتصالات",
 		"dividendAverage": 4.67,
-		"averageCost": 85.9,
+		"averageCost": 87.35,
 		"isActive": true
 	},
 	{
@@ -12,7 +12,7 @@
 		"code": 4150,
 		"market": "إدارة وتطوير العقارات",
 		"dividendAverage": 1.27,
-		"averageCost": 14.48,
+		"averageCost": 14.35,
 		"isActive": true
 	},
 	{
@@ -20,7 +20,7 @@
 		"code": 1120,
 		"market": "البنوك",
 		"dividendAverage": 3.75,
-		"averageCost": 53.94,
+		"averageCost": 56.22,
 		"isActive": true
 	},
 	{
@@ -28,7 +28,7 @@
 		"code": 2330,
 		"market": "المواد الأساسية",
 		"dividendAverage": 2.77,
-		"averageCost": 45.0,
+		"averageCost": 45.67,
 		"isActive": true
 	},
 	{
@@ -36,7 +36,7 @@
 		"code": 4337,
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.52,
-		"averageCost": 7.74,
+		"averageCost": 7.69,
 		"isActive": true
 	},
 	{
@@ -52,7 +52,7 @@
 		"code": 2222,
 		"market": "الطاقة",
 		"dividendAverage": 1.4,
-		"averageCost": 32.67,
+		"averageCost": 32.63,
 		"isActive": true
 	},
 	{
@@ -60,7 +60,7 @@
 		"code": 4190,
 		"market": "تجزئة السلع الكمالية",
 		"dividendAverage": 8.52,
-		"averageCost": 130.68,
+		"averageCost": 133.06,
 		"isActive": true
 	},
 	{
@@ -68,7 +68,7 @@
 		"code": 2010,
 		"market": "المواد الأساسية",
 		"dividendAverage": 4.33,
-		"averageCost": 74.45,
+		"averageCost": 75.77,
 		"isActive": true
 	},
 	{
@@ -84,7 +84,7 @@
 		"code": 5110,
 		"market": "المرافق العامة",
 		"dividendAverage": 0.7,
-		"averageCost": 16.27,
+		"averageCost": 16.23,
 		"isActive": true
 	},
 	{
@@ -92,7 +92,7 @@
 		"code": 4335,
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.67,
-		"averageCost": 8.85,
+		"averageCost": 8.73,
 		"isActive": true
 	},
 	{
@@ -100,7 +100,7 @@
 		"code": 4336,
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.65,
-		"averageCost": 9.56,
+		"averageCost": 9.41,
 		"isActive": true
 	}
 ]
