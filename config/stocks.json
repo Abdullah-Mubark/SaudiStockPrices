@@ -4,7 +4,7 @@
 		"code": 7010,
 		"market": "الإتصالات",
 		"dividendAverage": 4.67,
-		"averageCost": 89.75,
+		"averageCost": 102.4,
 		"isActive": true
 	},
 	{
@@ -12,7 +12,7 @@
 		"code": 4150,
 		"market": "إدارة وتطوير العقارات",
 		"dividendAverage": 1.27,
-		"averageCost": 14.71,
+		"averageCost": 16.64,
 		"isActive": true
 	},
 	{
@@ -20,7 +20,7 @@
 		"code": 1120,
 		"market": "البنوك",
 		"dividendAverage": 3.75,
-		"averageCost": 57.95,
+		"averageCost": 68,
 		"isActive": true
 	},
 	{
@@ -28,7 +28,7 @@
 		"code": 2330,
 		"market": "المواد الأساسية",
 		"dividendAverage": 2.77,
-		"averageCost": 47.62,
+		"averageCost": 58.5,
 		"isActive": true
 	},
 	{
@@ -36,7 +36,7 @@
 		"code": 4337,
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.52,
-		"averageCost": 7.63,
+		"averageCost": 7.87,
 		"isActive": true
 	},
 	{
@@ -52,7 +52,7 @@
 		"code": 2222,
 		"market": "الطاقة",
 		"dividendAverage": 1.4,
-		"averageCost": 32.95,
+		"averageCost": 34.6,
 		"isActive": true
 	},
 	{
@@ -60,7 +60,7 @@
 		"code": 4190,
 		"market": "تجزئة السلع الكمالية",
 		"dividendAverage": 8.52,
-		"averageCost": 145.4,
+		"averageCost": 182.4,
 		"isActive": true
 	},
 	{
@@ -68,7 +68,7 @@
 		"code": 2010,
 		"market": "المواد الأساسية",
 		"dividendAverage": 4.33,
-		"averageCost": 78.26,
+		"averageCost": 89.9,
 		"isActive": true
 	},
 	{
@@ -76,7 +76,7 @@
 		"code": 2020,
 		"market": "المواد الأساسية",
 		"dividendAverage": 2.75,
-		"averageCost": 67.65,
+		"averageCost": 77.4,
 		"isActive": true
 	},
 	{
@@ -84,7 +84,7 @@
 		"code": 5110,
 		"market": "المرافق العامة",
 		"dividendAverage": 0.7,
-		"averageCost": 16.13,
+		"averageCost": 19.88,
 		"isActive": true
 	},
 	{
@@ -92,7 +92,7 @@
 		"code": 4335,
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.67,
-		"averageCost": 8.7,
+		"averageCost": 9.06,
 		"isActive": true
 	},
 	{
@@ -100,7 +100,7 @@
 		"code": 4336,
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.65,
-		"averageCost": 9.21,
+		"averageCost": 8.62,
 		"isActive": true
 	}
 ]
