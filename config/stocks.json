@@ -4,7 +4,7 @@
 		"code": 7010,
 		"market": "الإتصالات",
 		"dividendAverage": 4.67,
-		"averageCost": 91,
+		"averageCost": 92.14,
 		"isActive": true
 	},
 	{
@@ -12,7 +12,7 @@
 		"code": 4150,
 		"market": "إدارة وتطوير العقارات",
 		"dividendAverage": 1.27,
-		"averageCost": 15,
+		"averageCost": 15.19,
 		"isActive": true
 	},
 	{
@@ -20,7 +20,7 @@
 		"code": 1120,
 		"market": "البنوك",
 		"dividendAverage": 3.75,
-		"averageCost": 59.23,
+		"averageCost": 60.41,
 		"isActive": true
 	},
 	{
@@ -28,7 +28,7 @@
 		"code": 2330,
 		"market": "المواد الأساسية",
 		"dividendAverage": 2.77,
-		"averageCost": 48.49,
+		"averageCost": 49.2,
 		"isActive": true
 	},
 	{
@@ -36,7 +36,7 @@
 		"code": 4337,
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.52,
-		"averageCost": 7.67,
+		"averageCost": 7.68,
 		"isActive": true
 	},
 	{
@@ -52,7 +52,7 @@
 		"code": 2222,
 		"market": "الطاقة",
 		"dividendAverage": 1.4,
-		"averageCost": 33.25,
+		"averageCost": 33.38,
 		"isActive": true
 	},
 	{
@@ -60,7 +60,7 @@
 		"code": 4190,
 		"market": "تجزئة السلع الكمالية",
 		"dividendAverage": 8.52,
-		"averageCost": 152.36,
+		"averageCost": 156.61,
 		"isActive": true
 	},
 	{
@@ -68,7 +68,7 @@
 		"code": 2010,
 		"market": "المواد الأساسية",
 		"dividendAverage": 4.33,
-		"averageCost": 79.15,
+		"averageCost": 79.9,
 		"isActive": true
 	},
 	{
@@ -76,7 +76,7 @@
 		"code": 2020,
 		"market": "المواد الأساسية",
 		"dividendAverage": 2.75,
-		"averageCost": 68.3,
+		"averageCost": 68.71,
 		"isActive": true
 	},
 	{
@@ -84,7 +84,7 @@
 		"code": 5110,
 		"market": "المرافق العامة",
 		"dividendAverage": 0.7,
-		"averageCost": 16.33,
+		"averageCost": 16.56,
 		"isActive": true
 	},
 	{
@@ -92,7 +92,7 @@
 		"code": 4335,
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.67,
-		"averageCost": 8.74,
+		"averageCost": 8.76,
 		"isActive": true
 	},
 	{
@@ -100,7 +100,23 @@
 		"code": 4336,
 		"market": "الصناديق العقارية المتداولة",
 		"dividendAverage": 0.65,
-		"averageCost": 9.23,
+		"averageCost": 9.21,
+		"isActive": true
+	},
+	{
+		"name": "مصرف الإنماء",
+		"code": 1150,
+		"market": "البنوك",
+		"dividendAverage": 0.45,
+		"averageCost": null,
+		"isActive": true
+	},
+	{
+		"name": "شركة مهارة للموارد البشرية",
+		"code": 1831,
+		"market": "الخدمات التجارية والمهنية",
+		"dividendAverage": 5.87,
+		"averageCost": null,
 		"isActive": true
 	}
 ]
