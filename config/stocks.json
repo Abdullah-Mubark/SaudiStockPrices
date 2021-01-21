@@ -4,46 +4,46 @@
 		"code": 7010,
 		"market": "الإتصالات",
 		"dividendAverage": 4.67,
-		"averageCost": 92.14,
+		"averageCost": 93.23,
 		"isActive": true
 	},
 	{
 		"name": "التعمير",
 		"code": 4150,
 		"market": "إدارة وتطوير العقارات",
-		"dividendAverage": 1.27,
-		"averageCost": 15.19,
+		"dividendAverage": 1.17,
+		"averageCost": 15.37,
 		"isActive": true
 	},
 	{
 		"name": "الراجحي",
 		"code": 1120,
 		"market": "البنوك",
-		"dividendAverage": 3.75,
-		"averageCost": 60.41,
+		"dividendAverage": 3.25,
+		"averageCost": 61.75,
 		"isActive": true
 	},
 	{
 		"name": "المتقدمة",
 		"code": 2330,
 		"market": "المواد الأساسية",
-		"dividendAverage": 2.77,
-		"averageCost": 49.2,
+		"dividendAverage": 2.7,
+		"averageCost": 50.04,
 		"isActive": true
 	},
 	{
 		"name": "المشاعر ريت",
 		"code": 4337,
 		"market": "الصناديق العقارية المتداولة",
-		"dividendAverage": 0.52,
-		"averageCost": 7.68,
+		"dividendAverage": 0.47,
+		"averageCost": 7.69,
 		"isActive": true
 	},
 	{
 		"name": "المواساة",
 		"code": 4002,
 		"market": "الرعاية الصحية",
-		"dividendAverage": 2.42,
+		"dividendAverage": 2.25,
 		"averageCost": null,
 		"isActive": true
 	},
@@ -52,31 +52,31 @@
 		"code": 2222,
 		"market": "الطاقة",
 		"dividendAverage": 1.4,
-		"averageCost": 33.38,
+		"averageCost": 33.56,
 		"isActive": true
 	},
 	{
 		"name": "جرير",
 		"code": 4190,
 		"market": "تجزئة السلع الكمالية",
-		"dividendAverage": 8.52,
-		"averageCost": 156.61,
+		"dividendAverage": 8.32,
+		"averageCost": 158.68,
 		"isActive": true
 	},
 	{
 		"name": "سابك",
 		"code": 2010,
 		"market": "المواد الأساسية",
-		"dividendAverage": 4.33,
-		"averageCost": 79.9,
+		"dividendAverage": 3.93,
+		"averageCost": 81.07,
 		"isActive": true
 	},
 	{
-		"name": "سافكو",
+		"name": "سابك للمغذيات الزراعية",
 		"code": 2020,
 		"market": "المواد الأساسية",
-		"dividendAverage": 2.75,
-		"averageCost": 68.71,
+		"dividendAverage": 2.83,
+		"averageCost": 69.28,
 		"isActive": true
 	},
 	{
@@ -84,22 +84,22 @@
 		"code": 5110,
 		"market": "المرافق العامة",
 		"dividendAverage": 0.7,
-		"averageCost": 16.56,
+		"averageCost": 16.81,
 		"isActive": true
 	},
 	{
 		"name": "مشاركة ريت",
 		"code": 4335,
 		"market": "الصناديق العقارية المتداولة",
-		"dividendAverage": 0.67,
-		"averageCost": 8.76,
+		"dividendAverage": 0.68,
+		"averageCost": 8.79,
 		"isActive": true
 	},
 	{
 		"name": "ملكية عقارات الخليج ريت",
 		"code": 4336,
 		"market": "الصناديق العقارية المتداولة",
-		"dividendAverage": 0.65,
+		"dividendAverage": 0.6,
 		"averageCost": 9.21,
 		"isActive": true
 	},
@@ -107,15 +107,71 @@
 		"name": "مصرف الإنماء",
 		"code": 1150,
 		"market": "البنوك",
-		"dividendAverage": 0.45,
-		"averageCost": null,
+		"dividendAverage": 0.33,
+		"averageCost": 16.47,
 		"isActive": true
 	},
 	{
 		"name": "شركة مهارة للموارد البشرية",
 		"code": 1831,
 		"market": "الخدمات التجارية والمهنية",
-		"dividendAverage": 5.87,
+		"dividendAverage": 4.06,
+		"averageCost": 75.53,
+		"isActive": true
+	},
+	{
+		"name": "الرياض ريت",
+		"code": 4330,
+		"market": "الصناديق العقارية المتداولة",
+		"dividendAverage": 0.48,
+		"averageCost": null,
+		"isActive": true
+	},
+	{
+		"name": "الخبير ريت",
+		"code": 4348,
+		"market": "الصناديق العقارية المتداولة",
+		"dividendAverage": 0.49,
+		"averageCost": null,
+		"isActive": true
+	},
+	{
+		"name": "سليمان الحبيب",
+		"code": 4013,
+		"market": "الرعاية الصحية",
+		"dividendAverage": 1.5,
+		"averageCost": null,
+		"isActive": true
+	},
+	{
+		"name": "أسمنت السعودية",
+		"code": 3030,
+		"market": "الأسمنتات",
+		"dividendAverage": 3.33,
+		"averageCost": null,
+		"isActive": true
+	},
+	{
+		"name": "أسمنت ينبع",
+		"code": 3060,
+		"market": "الأسمنتات",
+		"dividendAverage": 2.17,
+		"averageCost": null,
+		"isActive": true
+	},
+	{
+		"name": "أسمنت القصيم",
+		"code": 3040,
+		"market": "الأسمنتات",
+		"dividendAverage": 3.08,
+		"averageCost": null,
+		"isActive": true
+	},
+	{
+		"name": "المراعي",
+		"code": 2280,
+		"market": "إنتاج الأغذية",
+		"dividendAverage": 0.9,
 		"averageCost": null,
 		"isActive": true
 	}
