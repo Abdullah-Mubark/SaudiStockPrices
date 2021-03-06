@@ -1,11 +1,10 @@
 {
-  "name": "stockprices",
-  "version": "1.0.3",
-  "description": "This Project Created By Abdullah Almubark, it provides an immediate response on the latest stock prices for the list of stocks specified in the config file (config/stocks.json).",
+  "name": "UpdateStockAveragePrice",
+  "version": "1.0.0",
+  "description": "test.",
   "main": "main.js",
   "dependencies": {
-    "axios": "^0.21.1",
-    "excel4node": "^1.7.2"
+    "csvtojson": "2.0.10"
   },
   "devDependencies": {},
   "scripts": {
